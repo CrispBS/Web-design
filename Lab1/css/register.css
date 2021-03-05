@@ -1,0 +1,35 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+    background: #fff;
+    font-family: 'Open Sans', sans-serif;
+    color: #4e4e4e;
+    line-height: 22px;
+     background-image: url(../images/sing_up-title.png);
+}
+
+body>section {
+    padding: 10px 0;
+}
+
+.form-register {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-register .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.h1 {
+    color: #fff;
+}

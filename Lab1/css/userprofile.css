@@ -1,0 +1,48 @@
+html,
+body {
+  height: 100%;
+}
+
+.account-settings .user-profile {
+    margin: 0 0 1rem 0;
+    padding-bottom: 1rem;
+    text-align: center;
+	
+}
+
+.account-settings .user-profile .user-avatar {
+    margin: 0 0 1rem 0;
+    margin-top: 10%
+}
+
+.account-settings .user-profile .user-avatar img {
+    width: 110px;
+    height: 110px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+}
+
+.form-control {
+    border: 1px solid #cfd1d8;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    font-size: .825rem;
+    background: #ffffff;
+    color: #2e323c;
+	font-size: 14px;
+}
+
+.card {
+    background: #ffffff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 0;
+    margin-bottom: 1rem;
+}
+
+body>section {
+    padding: 24px 0;
+}
