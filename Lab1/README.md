@@ -1,4 +1,4 @@
 Путієнко Сергій КВ-81<br>
 Лабораторна робота 1: Розробка статичного інтерфейсу Web-додатка<br>
 Загальне завдання: розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру.<br>
-Звіт: https://docs.google.com/document/d/1BsztU1aC_Cn7D9D47LnGXjIf01PmqeEg_sVGgjdWbhA/edit?usp=sharing
+Звіт: https://docs.google.com/document/d/1aJELtsWPx8W74FaCSlRfbpRbZeTP3xTqu0m-O_caPCA/edit?usp=sharing
