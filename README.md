@@ -1,5 +1,5 @@
 # Web-design
-## KPI-Web-lab
+## KPI-Web-labs
 **Contributor: Putienko Serhiy, KV-81**
 1. lab1 
    - *Title:* Development of a static interface of a Web-application
